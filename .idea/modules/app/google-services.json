@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388753529333",
+    "project_id": "skyflightmobapp",
+    "storage_bucket": "skyflightmobapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388753529333:android:47228219cff7cee00ce8bc",
+        "android_client_info": {
+          "package_name": "com.example.skyflightmobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388753529333-m1d0m37c0f37e2sgbvl8rejof2os2irs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skyflightmobapp",
+            "certificate_hash": "50293183ac630743c34fd4216d1da46e46a72c3c"
+          }
+        },
+        {
+          "client_id": "388753529333-1s14r547r4av5u46jfpc0fmjujsaoi8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83P6c7sxyXw3-rBjTJHXjCn9KOrUB0LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388753529333-1s14r547r4av5u46jfpc0fmjujsaoi8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

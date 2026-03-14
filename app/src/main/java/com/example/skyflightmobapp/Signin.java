@@ -47,6 +47,12 @@ public class Signin extends AppCompatActivity {
                 "name='" + password + '\'' +
                 ", email='" + email + '\'' +
                 '}';
+        public String toString() {
+        return "Signin {" +
+                "name='" + password + '\'' +
+                ", email='" + email + '\'' +
+                '}';
+            
 
 
 

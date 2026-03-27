@@ -47,7 +47,7 @@
 
     <TextView
         android:id="@+id/textView11"
-        android:layout_width="330dp"
+        android:layout_width="333dp"
         android:layout_height="78dp"
         android:text="Sri Lankan Airlines, IndiGo ,Air India are among the cheapest ones that you will find on our app."
         android:textColor="#292121"

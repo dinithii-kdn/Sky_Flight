@@ -7,6 +7,7 @@ public class Member {
     private String email;
     private Long phone;
     private String pass;
+    
 
     public Member() {
     }
